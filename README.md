@@ -1,13 +1,13 @@
 ### Olá !👋
 
 #### Bem-vindo ao meu GitHub ! 
-Aqui estão meus projetos, exercícios e experiências práticas em programação.<br><br>
+Aqui estão meus projetos, exercícios e experiências práticas em programação.<br>
 
 
 
 Envolvido com TI desde a infância, por muito tempo tive o desenvolvimento web como uma atividade secundária.<br>Agora estou em transição de carreira, buscando a profissionalização definitiva na área.<br>Gosto tanto do Front-End quanto do Back-End por isso o Full Stack me atraiu logo de imediato.<br>
 Muito bom trabalhar no projeto de ponta a ponta !<br>
-(E haja paciência para consertar os bugs depois :smile:)<br><br>
+(E haja paciência para consertar os bugs depois :smile:)<br>
 
 Utilizo as seguintes ferramentas:
 
