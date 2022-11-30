@@ -22,4 +22,4 @@ Gosto tanto do Front-End quanto do Back-End por isso o Full Stack me atraiu logo
 
 Muito bom ver a "orquestra" tocando do começo ao fim ! 
 
-(E haja paciência para encontrar os bugs :smile:)
+(E haja paciência para consertar os bugs depois :smile:)
