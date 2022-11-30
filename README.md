@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Bem-vindo ao meu GitHub !
+#### Bem-vindo ao meu GitHub !
 
-#### Envolvido com TI desde a infância e sempre tendo o desenvolvimento web como atividade secundária, estou em transição de carreira para buscar a minha profissionalização definitiva na área.
+Envolvido com TI desde a infância e sempre tendo o desenvolvimento web como atividade secundária, estou em transição de carreira para buscar a minha profissionalização definitiva na área.
 
 Gosto tanto do Front-End quanto do Back-End por isso o Full Stack me atraiu logo de imediato. 
 
