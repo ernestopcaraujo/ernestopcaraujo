@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 #### Bem-vindo ao meu GitHub !
 
-Estou envolvido com TI desde a infância e por muito tempo tive o desenvolvimento web como uma atividade secundária. 
+Estou envolvido com TI desde a infância e por muito tempo tive o desenvolvimento web como uma atividade secundária.
+
 Agora estou em transição de carreira para buscar a profissionalização definitiva na área.
 
 Gosto tanto do Front-End quanto do Back-End por isso o Full Stack me atraiu logo de imediato.
@@ -53,6 +54,3 @@ Utilizo as seguintes ferramentas:
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-
-
