@@ -15,10 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 #### Bem-vindo ao meu GitHub !
+Aqui estão projetos, exercícios e experiências práticas em programação.
 
-Envolvido com TI desde a infância, por muito tempo tive o desenvolvimento web como uma atividade secundária. 
+Envolvido com TI desde a infância, por muito tempo tive o desenvolvimento web como uma atividade secundária, enquanto atuei em outras áreas.
 
-Agora estou em transição de carreira para buscar a profissionalização definitiva na área.
+Agora, estou em transição de carreira buscando a profissionalização definitiva em Tecnologia.
 
 Gosto tanto do Front-End quanto do Back-End por isso o Full Stack me atraiu logo de imediato.
 Muito bom trabalhar no projeto de ponta a ponta !
