@@ -1,7 +1,6 @@
 ### Olá !👋
 
-#### Bem-vindo ao meu GitHub ! 
-Aqui estão meus projetos, exercícios e experiências práticas em programação.<br>
+#### Bem-vindo ao meu GitHub !<br>Aqui estão meus projetos, exercícios e experiências práticas em programação.<br>
 
 
 
