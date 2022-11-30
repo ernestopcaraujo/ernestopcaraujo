@@ -20,6 +20,6 @@ Envolvido com TI desde a infância e sempre tendo o desenvolvimento web como ati
 
 Gosto tanto do Front-End quanto do Back-End por isso o Full Stack me atraiu logo de imediato. 
 
-Muito bom ver a "orquestra" tocando do começo ao fim ! 
+Muito bom trabalhar no projeto de ponta a ponta !
 
 (E haja paciência para consertar os bugs depois :smile:)
