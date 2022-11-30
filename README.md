@@ -26,13 +26,13 @@ Muito bom trabalhar no projeto de ponta a ponta !
 
 Utilizo as seguintes ferramentas:
 
-Linguagens: C#, JavaScript, TypeScript, SQL, HTML5, CSS<br>
-Frameworks: Angular (front-end), Bootstrap (front-end CSS), .NET Core (back-end), Docker (virtualização), .NET Entity Framework (ORM)<br>
-Testes: Cypress, Nunit, Mocha, xUnit, Jasmine<br>
-Tokenização: JWT<br>
-Metodologia de Projetos: Scrum<br>
-Versionamento e Hospedagem : Git e GitHub<br>
-Padrões: POO, API Rest, SOLID, DDD, TDD/BDD, Clean Code<br>
+_Linguagens:_ C#, JavaScript, TypeScript, SQL, HTML5, CSS<br>
+_Frameworks:_ Angular (front-end), Bootstrap (front-end CSS), .NET Core (back-end), Docker (virtualização), .NET Entity Framework (ORM)<br>
+_Testes:_ Cypress, Nunit, Mocha, xUnit, Jasmine<br>
+_Tokenização:_ JWT<br>
+_Metodologia de Projetos:_ Scrum<br>
+_Versionamento e Hospedagem :_ Git e GitHub<br>
+_Padrões:_ POO, API Rest, SOLID, DDD, TDD/BDD, Clean Code<br>
 
 
 
