@@ -13,9 +13,9 @@ Gosto tanto do Front-End quanto do Back-End por isso o Full Stack me atraiu logo
 
 Muito bom trabalhar no projeto de ponta a ponta !
 
-(E haja paciência para consertar os bugs depois :smile:)
+(E haja paciência para consertar os bugs depois :smile:)<br><br>
 
-Utilizo e continuo em constante aprimoramento as seguintes ferramentas:
+Utilizo as seguintes ferramentas:
 
 **Linguagens:** C#, JavaScript, TypeScript, SQL, HTML5, CSS<br>
 **Frameworks:** Angular (front-end), Bootstrap (front-end CSS), .NET Core (back-end), Docker (virtualização), .NET Entity Framework (ORM)<br>
