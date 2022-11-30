@@ -17,4 +17,7 @@ Here are some ideas to get you started:
 Bem-vindo ao meu GitHub !
 
 Envolvido com TI desde a infância e sempre tendo o desenvolvimento web como atividade secundária, estou em transição de carreira para buscar a minha profissionalização definitiva na área.
-Gosto tanto do Front-End quanto do Back-End por isso o Full Stack me atraiu logo de imediato. Muito bom ver a "orquestra" tocando do começo ao fim ! (E haja paciência para encontrar os bugs :smile:)
+
+Gosto tanto do Front-End quanto do Back-End por isso o Full Stack me atraiu logo de imediato. 
+
+Muito bom ver a "orquestra" tocando do começo ao fim ! (E haja paciência para encontrar os bugs :smile:)
