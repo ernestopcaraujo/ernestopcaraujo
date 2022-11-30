@@ -4,6 +4,7 @@
 Aqui estão meus projetos, exercícios e experiências práticas em programação.<br>
 
 
+
 Envolvido com TI desde a infância, por muito tempo tive o desenvolvimento web como uma atividade secundária.
 
 Agora estou em transição de carreira, buscando a profissionalização definitiva na área.
