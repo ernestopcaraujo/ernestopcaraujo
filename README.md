@@ -1,7 +1,7 @@
 ### Olá !👋
 
-#### Bem-vindo ao meu GitHub !<br>
-Aqui estão meus projetos, exercícios e experiências práticas em programação.
+#### Bem-vindo ao meu GitHub ! 
+Aqui estão meus projetos, exercícios e experiências práticas em programação.<br>
 
 
 Envolvido com TI desde a infância, por muito tempo tive o desenvolvimento web como uma atividade secundária.
