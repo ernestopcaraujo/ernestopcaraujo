@@ -12,7 +12,7 @@ Utilizo as seguintes ferramentas:
 
 **Linguagens:** C#, JavaScript, TypeScript, SQL, HTML5, CSS<br>
 **Frameworks:** Angular (front-end), Bootstrap (front-end CSS), .NET Core (back-end), Docker (virtualização), .NET Entity Framework (ORM)<br>
-**Testes:** Cypress, Nunit, Mocha, xUnit, Jasmine<br>
+**Testes:** Cypress, NUnit, Mocha, xUnit, Jasmine<br>
 **Tokenização:** JWT<br>
 **Metodologia de Projetos e Organização:** Scrum, Trello<br>
 **Versionamento e Hospedagem :** Git e GitHub<br>
