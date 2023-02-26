@@ -18,6 +18,8 @@ Utilizo as seguintes ferramentas:
 **Versionamento e Hospedagem :** Git e GitHub<br>
 **Padrões:** POO, API Rest, SOLID, DDD, TDD/BDD, Clean Code<br>
 
+Estudando: React
+
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
